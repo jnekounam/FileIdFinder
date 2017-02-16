@@ -49,7 +49,7 @@ namespace mec94_bot
                     }
                     else if (text != null)
                     {
-                        var req = new SendMessage(update.Message.Chat.Id, "ID: " + update.Message.From.Id);
+                        var req = new SendMessage(update.Message.Chat.Id, "ID: " + update.Message.ForwardFrom.Id);
                         await bot.MakeRequestAsync(req);
                         continue;
                     }
