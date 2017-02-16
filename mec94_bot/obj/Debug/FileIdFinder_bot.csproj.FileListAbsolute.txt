@@ -1,0 +1,16 @@
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\FileIdFinder_bot.exe.config
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\FileIdFinder_bot.exe
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\FileIdFinder_bot.pdb
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\NetTelegramBotApi.dll
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\Newtonsoft.Json.dll
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\System.Net.Http.Formatting.dll
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\Telegram.Bot.dll
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\NetTelegramBotApi.xml
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\Newtonsoft.Json.xml
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\System.Net.Http.Formatting.xml
+D:\FileIDFinder_bot\mec94_bot\bin\Debug\Telegram.Bot.xml
+D:\FileIDFinder_bot\mec94_bot\obj\Debug\mec94_bot.Form1.resources
+D:\FileIDFinder_bot\mec94_bot\obj\Debug\FileIdFinder_bot.Properties.Resources.resources
+D:\FileIDFinder_bot\mec94_bot\obj\Debug\FileIdFinder_bot.csproj.GenerateResource.Cache
+D:\FileIDFinder_bot\mec94_bot\obj\Debug\FileIdFinder_bot.exe
+D:\FileIDFinder_bot\mec94_bot\obj\Debug\FileIdFinder_bot.pdb
